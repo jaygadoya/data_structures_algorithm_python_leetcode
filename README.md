@@ -22,4 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0049-group-anagrams) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
