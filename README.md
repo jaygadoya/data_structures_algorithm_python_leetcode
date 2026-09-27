@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0242-valid-anagram) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sorting
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
