@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0242-valid-anagram) |
 | [0856-score-of-parentheses](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0856-score-of-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1768-merge-strings-alternately) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0022-generate-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
