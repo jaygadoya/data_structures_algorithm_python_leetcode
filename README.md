@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3498-reverse-degree-of-a-string](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
