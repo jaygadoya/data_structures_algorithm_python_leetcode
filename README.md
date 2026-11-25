@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0605-can-place-flowers) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
