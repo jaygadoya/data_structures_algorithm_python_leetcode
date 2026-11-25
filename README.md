@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0605-can-place-flowers) |
 ## Quicksort
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0075-sort-colors) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
