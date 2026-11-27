@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0242-valid-anagram) |
+| [1207-unique-number-of-occurrences](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/0605-can-place-flowers) |
+| [1207-unique-number-of-occurrences](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jaygadoya/data_structures_algorithm_python_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
